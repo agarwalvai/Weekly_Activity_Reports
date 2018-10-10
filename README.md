@@ -6,33 +6,33 @@ This entails myriad components which are listed as follows-
  Weekly Activity Reports: I believe a journey best explained, is a journey lived with. So hereby listed are my accomplishments throughout the span of a week for each week I've been an intern at SOFWERX-<br>
 
 
-  a. [Week1](Week1.md)
-    - Transitioning into work life
-    2. Introduction to Data Science
-    3. Introduction to Tensorflow
-    4. Getting familiar with the Tensorflow OD accomplish
-    5. Getting familiar with the team
+  a. [Week1](Week1.md)<br>
+    1. Transitioning into work life <br>
+    2. Introduction to Data Science<br>
+    3. Introduction to Tensorflow<br>
+    4. Getting familiar with the Tensorflow OD accomplish<br>
+    5. Getting familiar with the team<br>
 
-  b. [Week2](Week2.md)
-    1. Understanding objectives and dependencies
-    2. Division of labor
-    3. Implementation of effective team communication strategies
-    4. Introduction to SSD models
+  b. [Week2](Week2.md)<br>
+    1. Understanding objectives and dependencies<br>
+    2. Division of labor<br>
+    3. Implementation of effective team communication strategies<br>
+    4. Introduction to SSD models<br>
 
-  c. [Week3](Week3.md)
-    1. Query response based on running pre-trained datasets on the SSD Models
-    2. Recording imperative readings for reporting KPI values
-    3. Keeping up with team progress
-    4. Keeping up with project deadlines
-    5. Error correction
+  c. [Week3](Week3.md)<br>
+    1. Query response based on running pre-trained datasets on the SSD Models<br>
+    2. Recording imperative readings for reporting KPI values<br>
+    3. Keeping up with team progress<br>
+    4. Keeping up with project deadlines<br>
+    5. Error correction<br>
 
-  d. [Week4](Week4.md)
-    1. Demonstrated initiative and team leadership.
-    2. Picking up where Sam left off: Familiarization with Nvidia TX-2 for running setup for the Tensorflow Models
-    3. Working on final presentation for Friday
-    4. Working on final KPI report as a means to efficiently depicting achieved goals.
+  d. [Week4](Week4.md)<br>
+    1. Demonstrated initiative and team leadership.<br>
+    2. Picking up where Sam left off: Familiarization with Nvidia TX-2 for running setup for the Tensorflow Models<br>
+    3. Working on final presentation for Friday<br>
+    4. Working on final KPI report as a means to efficiently depicting achieved goals.<br>
 
-# What I gained from the internship-
+# What I gained from the internship
 
   1. Relevant technical knowledge pertaining to pragmatic solutions desired in industry today.
   2. Valuable experience transitioning into work environment.
